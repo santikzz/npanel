@@ -91,7 +91,7 @@ if(isset($_GET["failed"])){
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>nimrodcore panel</title>
+    <title></title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link href="assets/css/fontawesome.css" rel="stylesheet">
