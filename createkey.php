@@ -84,7 +84,7 @@ if(isset($_POST['key_time'], $_POST['key_amount'], $_POST['key_mask'], $_POST['k
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>nimrodcore.net</title>
+	<title></title></title>
 	<link rel="icon" type="image/png" sizes="16x16" href="images/icon.png">
 
 	<style type="text/css">
