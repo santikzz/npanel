@@ -33,7 +33,7 @@ if(isset($_GET["p"])){
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
   <link rel="icon" type="image/png" sizes="16x16" href="images/icon.png">
-  <title>nimrodcore panel</title>
+  <title></title>
 </head>
 
 <dialog id="deleteDialog">
